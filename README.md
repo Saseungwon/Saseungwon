@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sa Seungwon</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saseungwon&label=Profile%20views&color=0e75b6&style=flat" alt="saseungwon" /> </p>
 
 - 🌱 I’m currently learning **Java, SQL, Javascript, Spring Framework, Python, Deep learning**
 
