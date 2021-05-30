@@ -13,8 +13,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saseungwon&show_icons=true&locale=en&layout=compact" alt="saseungwon" /></p>
 
 
-</div>
-
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="404" class="">
     <defs>
         <style/>
@@ -25,7 +23,6 @@
     font-size: 14px;
     color: #777777;
   }
-
 /* Headers */
   h1, h2, h3 {
     margin: 8px 0 2px;
@@ -46,7 +43,6 @@
   h3 {
     font-size: 14px;
   }
-
 /* Fields */
   section &gt; .field {
     margin-left: 5px;
@@ -69,7 +65,6 @@
   .field.error svg {
     fill: #cb2431;
   }
-
 /* Displays */
   .row {
     display: flex;
@@ -106,26 +101,21 @@
   .no-margin-top {
     margin-top: 0px;
   }
-
 /* User avatar */
   .avatar {
     border-radius: 50%;
     margin: 0 6px;
   }
-
   .organization.avatar {
     border-radius: 15%;
   }
-
   .organization.name {
     white-space: nowrap;
   }
-
   .organization.contributions {
     margin: 0 8px;
     flex-wrap: wrap;
   }
-
   .contribution.organization {
     display: flex;
     border: 1px solid #959da5;
@@ -136,11 +126,9 @@
     font-size: 12px;
     background-color: #959da520;
   }
-
   .contribution.organization .avatar {
     margin: 0 4px;
   }
-
 /* Commit calendar */
   .calendar.field {
     margin: 4px 0;
@@ -150,34 +138,28 @@
     outline: 1px solid rgba(27,31,35,.04);
     outline-offset: -1px;
   }
-
 /* Progress bars */
   svg.bar {
     margin: 4px 0;
   }
-
 /* Language */
   .field.language {
     margin: 0 8px;
     flex-grow: 0;
   }
-
   .field.language.details {
     display: flex;
     justify-content: space-between;
   }
-
   .field.language.details small {
     display: flex;
     justify-content: space-between;
     color: #666666;
     text-align: right;
   }
-
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
   }
-
 /* Follow-up */
   .followup.legend {
     font-size: 12px;
@@ -193,7 +175,6 @@
   .followup.legend svg:last-child {
     margin-right: 0;
   }
-
 /* Labels */
   .label {
     background-color: #58A6FF30;
@@ -206,14 +187,12 @@
     border-radius: 32px;
     font-size: 12px;
   }
-
 /* Habits */
   .habits {
     margin: 0;
     list-style-type: none;
     padding-left: 37px;
   }
-
 /* Footer */
   footer {
     margin-top: 8px;
@@ -226,7 +205,6 @@
     justify-content: flex-end;
     padding: 0 4px;
   }
-
 /* Speed test categories */
   .categories {
     display: flex;
@@ -240,7 +218,6 @@
     align-items: center;
     flex: 1 1 0;
   }
-
 /* Gauges */
   .gauge {
     stroke-linecap: round;
@@ -305,14 +282,12 @@
   .audit.low {
     fill: #e53935;
   }
-
   .screenshot {
     width: 452px;
     height: 315px;
     margin: 8px 14px 4px;
     border-radius: 5px;
   }
-
 /* Music plugin */
   .tracklist {
     display: flex;
@@ -341,7 +316,6 @@
     font-size: 12px;
     color: #666666;
   }
-
 /* Posts plugin */
   .post {
     align-items: flex-start;
@@ -388,18 +362,15 @@
     color: #666666;
     -webkit-line-clamp: 3;
   }
-
 /* Topics */
   .topics {
     display: flex;
     flex-wrap: wrap;
   }
-
   .topics img {
     border-radius: 5px;
     margin: 4px;
   }
-
 /* Tweets */
   .tweet {
     font-size: 13px;
@@ -409,23 +380,19 @@
     border-left: 3px solid #777777B2;
     padding-left: 6px;
   }
-
   .tweet .mention, .tweet .link, .tweet .hashtag {
     color: #0366d6;
   }
-
   .tweet .date {
     margin: 6px 0;
     font-size: 12px;
     color: #666666;
   }
-
   .tweet .attachments {
     display: flex;
     width: 450px;
     margin-top: 8px;
   }
-
   .tweet .attachments &gt; div {
     flex: 1 1 0;
     width: 0;
@@ -439,7 +406,6 @@
     display: flex;
     align-items: flex-end;
   }
-
   .tweet .attachments .infos {
     background-color: #000000D0;
     color: white;
@@ -448,27 +414,22 @@
     width: 100%;
     padding-bottom: 4px;
   }
-
   .tweet .attachments .infos &gt; div {
     margin: 4px 8px 0;
   }
-
   .tweet .attachments .infos .title {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
-
   .tweet .attachments .infos .description {
     font-size: 11px;
     color: #666666;
   }
-
 /* Charts and graphs */
   .chart {
     padding: 0 8px;
   }
-
   .chart-bars {
     display: flex;
     justify-content: space-between;
@@ -478,7 +439,6 @@
     flex-grow: 1;
     min-height: 70px;
   }
-
   .chart-bars .entry {
     flex: 1 1 0;
     display: flex;
@@ -487,35 +447,29 @@
     font-size: 10px;
     color: #666666;
   }
-
   .chart-bars .entry .value {
     font-size: 7px;
   }
-
   .chart-bars .entry .empty {
     width: 100%;
     text-align: center;
   }
-
   .chart-bars .bar {
     width: 7px;
     background-color: var(--color-calendar-graph-day-bg);
     border: 1px solid var(--color-calendar-graph-day-border);
     border-radius: 5px;
   }
-
   .chart-bars.horizontal {
     flex-direction: column;
     height: 100%;
   }
-
   .chart-bars.horizontal .entry {
     align-items: center;
     flex-direction: row;
     width: 100%;
     min-height: 1rem;
   }
-
   .chart-bars.horizontal .entry .name {
     flex-shrink: 0;
     text-align: right;
@@ -524,18 +478,15 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
-
   .chart-bars .entry .bottom {
     margin-bottom: -1rem;
     line-height: 1rem;
   }
-
   .chart-bars.horizontal .bar {
     height: 7px;
     width: auto;
     margin: 0 6px;
   }
-
 /* Repository */
   .repository {
     display: flex;
@@ -543,51 +494,42 @@
     width: 100%;
     margin: 6px 0;
   }
-
   .repository .name {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 440px;
   }
-
   .repository .name span:first-child {
     color: #58a6ff;
   }
-
   .repository .name span:last-child {
     color: #666666;
     font-size: 10px;
   }
-
   .repository .description {
     display: block;
     width: 440px;
     white-space: normal;
   }
-
   .repository .description, .repository .infos {
     color: #666666;
     margin-left: 38px;
     font-size: 13px;
   }
-
   .repository .infos &gt; div {
     display: flex;
     align-items: center;
     margin-right: 16px;
   }
-
   .repository .infos svg {
     margin: 0;
     margin-right: 4px;
   }
-
 /* Activity */
   .activity {
     margin-bottom: 12px;
   }
-
   .activity .field {
     width: 100%;
     overflow: hidden;
@@ -596,18 +538,15 @@
     white-space: nowrap;
     margin-bottom: 0;
   }
-
   .activity .field .content {
     flex-grow: 1;
     text-overflow: ellipsis;
     overflow: hidden;
   }
-
   .activity .repo, .activity .issue, .activity .commit .sha {
     display: inline;
     color: #58a6ff;
   }
-
   .activity .code {
     background-color: #7777771F;
     padding: 1px 5px;
@@ -617,12 +556,10 @@
     font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     margin: 0 4px -3px;
   }
-
   .activity .bold, .activity .user {
     font-weight: 600;
     margin: 0 4px;
   }
-
   .activity .details, .activity .timestamp {
     padding-left: 38px;
     display: flex;
@@ -630,23 +567,19 @@
     font-size: 13px;
     color: #666666;
   }
-
   .activity .timestamp {
     font-size: 10px;
     margin-top: 4px;
   }
-
   .activity .commit .sha {
     font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
   }
-
   .activity .commit .message {
     overflow: hidden;
     text-overflow: ellipsis;
     width: 360px;
     white-space: nowrap;
   }
-
   .activity .details &gt; .comment {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -660,16 +593,13 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
   }
-
 /* People */
   .people {
     padding: 0 10px;
   }
-
   .people .avatar {
     margin: 0 2px;
   }
-
 /* Projects */
   .project .description {
     overflow: hidden;
@@ -685,7 +615,6 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
   }
-
 /* Anilist */
   .anilist {
     display: flex;
@@ -694,7 +623,6 @@
     margin-left: 28px;
     margin-top: 4px;
   }
-
   .anilist .media {
     display: flex;
     margin-bottom: 4px;
@@ -704,7 +632,6 @@
     margin: 0 10px;
     border-radius: 7px;
   }
-
   .anilist .media .about {
     flex-grow: 1;
   }
@@ -732,7 +659,6 @@
     margin: 0;
     margin-right: 4px;
   }
-
   .anilist .media .description {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -746,17 +672,14 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
   }
-
   .anilist .characters {
     display: flex;
     flex-wrap: wrap;
   }
-
   .anilist .characters img {
     margin: 2px;
     border-radius: 7px;
   }
-
 /* Licenses */
   .licenses {
     display: flex;
@@ -807,7 +730,6 @@
   .licenses .column .condition svg {
     fill: #58a6ff;
   }
-
 /* Contributors */
   .contributors {
     display: flex;
@@ -839,13 +761,11 @@
     width: .8rem;
     height: .8rem;
   }
-
 /* Introduction */
   .introduction {
     white-space: normal;
     margin: 0 13px 2px;
   }
-
 /* Stackoverflow */
   .stackoverflow {
     margin-left: 38px;
@@ -887,7 +807,6 @@
     padding-left: 6px;
     width: 400px;
   }
-
 /* Achievements */
   .achievement {
     display: flex;
@@ -955,7 +874,6 @@
   .achievement .gauge-base, .achievement .gauge-arc {
     stroke-width: 6;
   }
-
 /* RSS feed */
   .rss {
     align-items: flex-start;
@@ -967,7 +885,6 @@
     font-size: 10px;
     color: #666666;
   }
-
 /* Skyline */
   .skyline-animation {
     margin: 2px 13px 6px;
@@ -975,7 +892,6 @@
     background-color: #030D21;
     overflow: hidden;
   }
-
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1017,7 +933,6 @@
     font-style: italic;
     color: #77777760
   }
-
 /* Charts */
   .ct-line {
     stroke-width: 2px !important;
@@ -1033,13 +948,11 @@
   .ct-grid {
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
-
 /* Autosize */
   .autosize {
     width: auto;
     height: auto;
   }
-
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1053,21 +966,18 @@
       opacity: 1;
     }
   }
-
 /* Twemoji and GitHub emoji */
   .twemoji, .gemoji {
     height: 1em;
     width: 1em;
     margin-bottom: -.125em;
   }
-
 /* Cake day */
   .cakeday, .cakeday svg {
     animation: animation-rainbow 1.2s;
     animation-iteration-count: infinite;
     animation-timing-function: steps(1);
   }
-
 /* Rainbow animation */
   @keyframes animation-rainbow {
     0%, 100%{ color: #7F00FF; fill: #7F00FF; }
@@ -1078,7 +988,6 @@
 		71%{ color: #FF7F00; fill: #FF7F00; }
 		86%{ color: #FF0000; fill: #FF0000; }
   }
-
 /* Calendar */
   :root {
     --color-calendar-graph-day-bg: #ebedf0;
@@ -1096,12 +1005,10 @@
     --color-calendar-graph-day-L2-border: rgba(27,31,35,0.06);
     --color-calendar-graph-day-L1-border: rgba(27,31,35,0.06);
   }
-
 /* End delimiter */
   #metrics-end {
     width: 100%;
   }
-
   .no-animations * {
     transition-delay: 0s !important;
     transition-duration: 0s !important;
@@ -3131,3 +3038,6 @@
         </div>
     </foreignObject>
 </svg>
+
+</div>
+
