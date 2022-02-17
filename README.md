@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sa Seungwon</h1>
+<h1 align="center">Hi 👋, I'm Seungwon</h1>
 
 - 🌱 I’m currently learning **Java, SQL, Javascript, Spring Framework, Python, Deep learning, React**
 
