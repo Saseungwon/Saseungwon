@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seungwon </h1>
 
 - 🌱 I’m currently learning **Java, SQL, Javascript, Spring Framework, Python, Deep learning, React**
-
 - 📫 How to reach me **dfg1425@gmail.com**
 
 
